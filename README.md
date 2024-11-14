@@ -11,6 +11,6 @@
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=MarwanMostafa54&icon=0&color=1)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=MarwanMostafa54&icon=0&color=1)]
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
